@@ -71,6 +71,10 @@ Federated learning for model improvement while preserving privacy
 
 Yield prediction and precision farming analytics
 
+📂 Usage of Uploaded files
+      ☘️ PLANT RECC(1) - This file was contains the whole backend informations. which includes import models, finding accuracy like that things.
+      🤖 app2 - This file contains the information about the Front End (User Interface). I using the Streamlit basic UI fo user friendly, for this thing everyone can easily use it in a proper way.
+
 🤝 Contribution
 Contributions are welcome! If you’d like to contribute:
 
